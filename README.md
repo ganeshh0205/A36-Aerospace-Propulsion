@@ -2,7 +2,7 @@
 
 > **A High-Fidelity Interactive 3D Jet Engine Simulator for Aerospace Education.**
 
-The **Engine Simulator** bridges the gap between theoretical aerospace engineering and interactive learning. Built with modern web technologies, it allows students and enthusiasts to explore complex jet engine models (Turbofan, Turbojet, Turboprop) in a physics-based 3D environment.
+The **Engine Simulator** bridges the gap between theoretical aerospace engineering and interactive learning. Built with modern web technologies, it allows students and enthusiasts to explore complex turbo jet engine in a physics-based 3D environment.
 
 ## 🌟 Key Features
 
@@ -148,7 +148,5 @@ c:\engine-simulator\
 *   **Fix**: Ensure you ran `npm run build` followed by `npx cap sync` before opening Android Studio.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+FOLDER LINK:
+https://drive.google.com/drive/folders/1qjzQ_RevrT9RF158RQs2qSNCphdSwdl7?usp=sharing
